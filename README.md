@@ -47,12 +47,7 @@ Inicie o servidor
 
 ## Screenshots
 
-Tela Principal
 ![App Screenshot](https://github.com/caiquepedasilva/receita_app/blob/main/assets/Tela%20principal.png)
-
-Tela de Detalhe
 ![App Screenshot](https://github.com/caiquepedasilva/receita_app/blob/main/assets/Detalhe%20receita.png)
-
-Tela do Modo de Preparo
 ![App Screenshot](https://github.com/caiquepedasilva/receita_app/blob/main/assets/modo%20de%20preparo%20video.png)
 
