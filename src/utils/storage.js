@@ -40,9 +40,9 @@ export async function removeItem(id){
 export async function isFavorite(receipe){
     let myReceipes = await getFavorites("@appreceitas")
 
-    const favorites = myReceipes.find( item => item.id === receipe.id )
+    const favorite = myReceipes.find( item => item.id === receipe.id )
 
-    if(favorites){
+    if(favorite){
         return true;
     }
 

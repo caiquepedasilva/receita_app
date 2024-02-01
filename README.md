@@ -35,6 +35,14 @@ Inicie o servidor
   npx expo start
 ```
 
+Bibliotecas
+```bash
+npx expo install react-native-webview
+```
+
+```bash
+npx expo install @react-native-async-storage/async-storage
+```
 
 ## Requisitos
 
